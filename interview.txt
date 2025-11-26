@@ -1,0 +1,4 @@
+what is devops ?
+explain SDLC ?
+What is agile methodology ?
+What is docker architecture ?
